@@ -1,0 +1,142 @@
+<div class="backdrop" ui-sref="^"></div>
+
+<div class="inner-container" go-back>
+
+    <div class="custom-modal">
+        <div class="modal-dialog">
+            <div class="modal-content animated rollIn">
+
+                <div class="modal-header">
+                    <div class="fa fa-arrow-left btn btn-default back-button" ng-if="withButton" ng-click="onBackClick()"></div>
+                    {{unit.name}}
+                </div>
+
+                <div class="modal-body" ng-class="{ preview: unit.preview }">
+
+                    <div ng-if="!unit.incomplete" class="slot huge" decorate-slot big="true" uid="unit.number + 1"></div>
+
+                    <div ng-if="unit.preview" class="alert alert-warning">
+                        <b>WARNING:</b> Currently viewing the preview of an upcoming unit not yet released, the information provided may not be accurate.
+                    </div>
+
+                    <div ng-if="unit.incomplete && !unit.preview" class="alert alert-danger">
+                        This unit's information is still partially missing.
+                    </div>
+
+                    <div ng-if="details.obtain">
+                      <blockquote>
+                        <b>How to unlock:</b> {{details.obtain}}
+                      </blockquote>
+                    </div>
+                    <div ng-if="details.note">
+                      <blockquote class="note">
+                        <b>Special Note:</b> {{details.note}}
+                      </blockquote>
+                    </div>
+                    <div class="panel panel-default stats-pane">
+                        <table class="table table-striped">
+                            <tbody>
+                                <tr>
+                                    <th ng-if="details.cola">Level</th>
+                                    <th ng-if="details.cola">Cola Needed</th>
+                                    <th ng-if="!details.period">Success Rate</th>
+                                    <th ng-if="details.period">Period</th>
+                                    <th>Effect</th>
+                                    <th ng-if="details.special">Special</th>
+                                    <th ng-if="details.cd">CD</th>
+                                </tr>
+                                <tr>
+                                  <td ng-if="details.cola">1</td>
+                                  <td ng-if="details.cola">-</td>
+                                  <td ng-if="details.success">-</td>
+                                  <td ng-if="details.period">{{details.period[0]}}</td>
+                                  <td ng-bind-html="details.effect[0] | decorate"></td>
+                                  <td ng-if="details.special" ng-bind-html="details.special[0] | decorate"></td>
+                                  <td ng-if="details.cd">{{details.cd[0]}}</td>
+                                </tr>
+                                <tr>
+                                  <td ng-if="details.cola">2</td>
+                                  <td ng-if="details.cola">{{details.cola[0]}}</td>
+                                  <td ng-if="details.success">{{details.success[0]}}%</td>
+                                  <td ng-if="details.period">{{details.period[1]}}</td>
+                                  <td ng-bind-html="details.effect[1] | decorate"></td>
+                                  <td ng-if="details.special" ng-bind-html="details.special[1] | decorate"></td>
+                                  <td ng-if="details.cd">{{details.cd[1]}}</td>
+                                </tr>
+                                <tr ng-if="details.cola || details.period[2]">
+                                  <td ng-if="details.cola">3</td>
+                                  <td ng-if="details.cola">{{details.cola[1]}}</td>
+                                  <td ng-if="details.period">{{details.period[2]}}</td>
+                                  <td ng-if="details.success">{{details.success[1]}}%</td>
+                                  <td ng-bind-html="details.effect[2] | decorate"></td>
+                                  <td ng-if="details.special" ng-bind-html="details.special[2] | decorate"></td>
+                                  <td ng-if="details.cd">{{details.cd[2]}}</td>
+                                </tr>
+                                <tr ng-if="details.cola || details.period[3]">
+                                  <td ng-if="details.cola">4</td>
+                                  <td ng-if="details.cola">{{details.cola[2]}}</td>
+                                  <td ng-if="details.period">{{details.period[3]}}</td>
+                                  <td ng-if="details.success">{{details.success[2]}}%</td>
+                                  <td ng-bind-html="details.effect[3] | decorate"></td>
+                                  <td ng-if="details.special" ng-bind-html="details.special[3] | decorate"></td>
+                                  <td ng-if="details.cd">{{details.cd[3]}}</td>
+                                </tr>
+                                <tr ng-if="details.cola">
+                                  <td>5</td>
+                                  <td ng-if="details.cola">{{details.cola[3]}}</td>
+                                  <td>{{details.success[3]}}%</td>
+                                  <td ng-bind-html="details.effect[4] | decorate"></td>
+                                  <td ng-if="details.special" ng-bind-html="details.special[4] | decorate"></td>
+                                  <td ng-if="details.cd">{{details.cd[4]}}</td>
+                                </tr>
+                                <tr ng-if="details.cola">
+                                  <td>6</td>
+                                  <td ng-if="details.cola">{{details.cola[4]}}</td>
+                                  <td>{{details.success[4]}}%</td>
+                                  <td ng-bind-html="details.effect[5] | decorate"></td>
+                                  <td ng-if="details.special" ng-bind-html="details.special[5] | decorate"></td>
+                                  <td ng-if="details.cd">{{details.cd[5]}}</td>
+                                </tr>
+                                <tr ng-if="details.cola">
+                                  <td>7</td>
+                                  <td ng-if="details.cola">{{details.cola[5]}}</td>
+                                  <td>{{details.success[5]}}%</td>
+                                  <td ng-bind-html="details.effect[6] | decorate"></td>
+                                  <td ng-if="details.special" ng-bind-html="details.special[6] | decorate"></td>
+                                  <td ng-if="details.cd">{{details.cd[6]}}</td>
+                                </tr>
+                                <tr ng-if="details.cola">
+                                  <td>8</td>
+                                  <td ng-if="details.cola">{{details.cola[6]}}</td>
+                                  <td>{{details.success[6]}}%</td>
+                                  <td ng-bind-html="details.effect[7] | decorate"></td>
+                                  <td ng-if="details.special" ng-bind-html="details.special[7] | decorate"></td>
+                                  <td ng-if="details.cd">{{details.cd[7]}}</td>
+                                </tr>
+                                <tr ng-if="details.cola">
+                                  <td>9</td>
+                                  <td ng-if="details.cola">{{details.cola[7]}}</td>
+                                  <td>{{details.success[7]}}%</td>
+                                  <td ng-bind-html="details.effect[8] | decorate"></td>
+                                  <td ng-if="details.special" ng-bind-html="details.special[8] | decorate"></td>
+                                  <td ng-if="details.cd">{{details.cd[8]}}</td>
+                                </tr>
+                                <tr ng-if="details.cola">
+                                  <td>10</td>
+                                  <td ng-if="details.cola">{{details.cola[8]}}</td>
+                                  <td>{{details.success[8]}}%</td>
+                                  <td ng-bind-html="details.effect[9] | decorate"></td>
+                                  <td ng-if="details.special" ng-bind-html="details.special[9] | decorate"></td>
+                                  <td ng-if="details.cd">{{details.cd[9]}}</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+</div>

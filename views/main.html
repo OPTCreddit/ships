@@ -1,0 +1,21 @@
+<div id="leftContainer" style="display:none;">
+    <ng-include src="'views/sidebar.html'" ng-controller="SidebarCtrl"></ng-include>
+</div>
+
+</div>
+
+<div id="rightContainer">
+
+    <div id="queryContainer">
+        <input type="text" autocomplete="off" id="picker" placeholder="type to filter"
+            ng-model="query" ng-model-options="{ updateOn: 'change blur' }" auto-focus/>
+        <span id="clear-input-button" ng-click="query = ''">Clear</span>
+    </div>
+
+    <div id="tableContainer">
+        <character-table></character-table>
+    </div>
+
+    <div id="footer"></div>
+
+</div>

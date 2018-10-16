@@ -54,13 +54,13 @@
     utils.getThumbnailUrl = function (n) {
         var asset = window.units[n-1].assetID;
         var id = ('0000' + asset).slice(-4).replace(/(057[54])/, '0$1'); // missing aokiji image
-        return '../img/icon/ship_' + id + '_t2.png';
+        return 'img/icon/ship_' + id + '_t2.png';
     };
 
     utils.getBigThumbnailUrl = function (n) {
       var asset = window.units[n-1].assetID;
         var id = ('0000' + asset).slice(-4).replace(/(057[54])/, '0$1'); // missing aokiji image
-        return '../img/full/ship_' + id + '_c.png';
+        return 'img/full/ship_' + id + '_c.png';
     };
     /* * * * * Misc functions * * * * */
 

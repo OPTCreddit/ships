@@ -45,7 +45,7 @@ app
 
         /* * * * * Check version * * * * */
 
-        $http.get('../common/data/version.js?ts=' + Date.now())
+        $http.get('common/data/version.js?ts=' + Date.now())
             .then(function(response) {
                 var version = parseInt(response.data.match(/=\s*(\d+)/)[1],10);
                 if (version <= window.dbVersion) return;

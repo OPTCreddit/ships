@@ -1,4 +1,4 @@
-<div id="leftContainer" style="display:none;">
+<div id="leftContainer">
     <ng-include src="'views/sidebar.html'" ng-controller="SidebarCtrl"></ng-include>
 </div>
 
@@ -7,8 +7,8 @@
 <div id="rightContainer">
 
     <div id="queryContainer">
-        <input type="text" autocomplete="off" id="picker" placeholder="type to filter"
-            ng-model="query" ng-model-options="{ updateOn: 'change blur' }" auto-focus/>
+        <input type="text" id="picker" placeholder="type to filter"
+            ng-model="query" ng-model-options="{ updateOn: 'change blur' }" auto-focus>
         <span id="clear-input-button" ng-click="query = ''">Clear</span>
     </div>
 

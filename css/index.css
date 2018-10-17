@@ -113,6 +113,14 @@ input[type="text"] {
     height: 73px;
 }
 
+.jpntag {
+  background: url(../img/jpn.png);
+  width: 99px;
+  height: 40px;
+  position: absolute;
+  left: 0;
+}
+
 .badge {
   border-radius: 4px;
   padding: 2px;

@@ -49,7 +49,7 @@ directives.characterTable = function($rootScope, $timeout, $compile, $storage) {
 			};
             // report link
             var link = $('<span class="help-link">If you find any incorrect info or bugs, please <a>send me a message on reddit</a></span>');
-            link.find('a').attr('href', 'https://www.reddit.com/message/compose/?to=antonlabz&subject=units_db');
+            link.find('a').attr('href', 'https://www.reddit.com/message/compose/?to=antonlabz&subject=ships_db');
             link.insertAfter($('.dataTables_length'));
             // night toggle
             var nightToggle = $('<label class="night-toggle"><input type="checkbox">Night mode</input></label>');

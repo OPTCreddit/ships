@@ -931,8 +931,6 @@ unit > a:hover, .clickable:hover {
 }
 
 .slot.huge {
-    width: 50%;
-    height: 300px;
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -955,9 +953,8 @@ unit > a:hover, .clickable:hover {
 
 .slot.small {
     min-width: 40px;
-    height: 40px;
+    height: 52px;
     background-repeat: no-repeat;
-    margin: 1px;
 }
 
 /**********

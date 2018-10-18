@@ -70,9 +70,7 @@ directives.decorateSlot = function() {
         scope: { uid: '=', big: '@' },
         link: function(scope, element, attrs) {
             if (scope.big)
-                element[0].style.backgroundImage = 'url(' + Utils.getBigThumbnailUrl(scope.uid) + ')';
-            else
-                element[0].style.backgroundImage = 'url(' + Utils.getScroll(scope.uid) + ')';
+                element[0].innerHTML = '<img src="' + Utils.getBigThumbnailUrl(scope.uid) + '"></img>';
         }
     };
 };

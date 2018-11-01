@@ -6,8 +6,8 @@ It is hosted on github pages, although you can just download it and run a local 
 
 # Team
 
-* The original OPTC-DB project team for creating and maintaining this framework
-* antonlabz - Maintains this project specifically
+* The original OPTC-DB project team for creating and maintaining the base code
+* antonlabz - Maintains this repo specifically
 * Everyone else on Discord/Reddit/Github etc that contributes with data/corrections/reports
 
 # Contact

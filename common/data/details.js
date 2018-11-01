@@ -693,7 +693,7 @@ window.details = {
     36: {
       obtain: "Purchase from Rayleigh's Bazaar for 7500 points.",
       cola: [3,6,9,12,15,18,21,24,27],
-      success: ["?","?","?","?","?","?","?","?","?"],
+      success: [65,65,65,65,65,65,65,65,65],
       effect: [
         "Boosts ATK by 1.2x, EXP gained by 1.1x and Beli gained by 1.5x",
         "Boosts ATK by 1.25x, EXP gained by 1.1x and Beli gained by 1.5x",
@@ -731,7 +731,7 @@ window.details = {
       obtain: "Clear Capone Bege's 0-Stamina Training Forest (Forest of Training: Gang).",
       jpn: 1,
       cola: [25,25,25,25,25,25,25,25,25],
-      success: ["?","?","?","?","?","?","?","?","?"],
+      success: [95,95,94,93,92,91,90,89,88],
       effect: [
         "Boosts ATK by 1.1x, reduces crew's ATK if you have a Free Spirit character in your crew",
         "Boosts ATK by 1.2x, reduces crew's ATK if you have a Free Spirit or Powerhouse character in your crew",
@@ -749,7 +749,7 @@ window.details = {
       obtain: "Clear Big Mom's 0-Stamina Training Forest (Forest of Training: Mama)",
       jpn: 1,
       cola: [10,10,10,20,20,20,30,30,30],
-      success: ["?","?","?","?","?","?","?","?","?"],
+      success: [100,75,50,100,75,50,100,75,50],
       effect: [
         "Boosts HP by 1.1x. If your Captain is Driven or Powerhouse, boosts ATK of STR/DEX/QCK characters by 1.1x",
         "Boosts HP by 1.1x. If your Captain is Driven or Powerhouse, boosts ATK of STR/DEX/QCK characters by 1.15x",

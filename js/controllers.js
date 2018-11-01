@@ -116,16 +116,7 @@ app.controller('DetailsCtrl',function($scope, $rootScope, $state, $stateParams, 
     $scope.hybrid = $scope.unit.affil && $scope.unit.affil.constructor == Array;
     $scope.limitbreak = $scope.unit.limitHP;
     $scope.details = window.details[id];
-    $scope.evolution = window.evolutions[id];
     $scope.customLevel = { };
-
-    // derived data
-    var evolvesFrom = Utils.searchBaseForms(id);
-    $scope.evolvesFrom = [ ];
-    for (var from in evolvesFrom) {
-        for (var i=0;i<evolvesFrom[from].length;++i)
-            $scope.evolvesFrom.push({ from: parseInt(from, 10), to: $scope.id, via: evolvesFrom[from][i] });
-    }
 
     // events/functions
     $scope.getEvos = CharUtils.getEvolversOfEvolution;

@@ -65,7 +65,7 @@ filters.decorate = function() {
         return input
             .replace(/\[?(STR|QCK|DEX|PSY|INT)\]?/g,'<span class="badge $1">$1</span>')
             .replace(/RCV/g,'<span class="badge RCV">RCV</span>')
-            .replace(/\[TND\]/g,'<span class="badge TND"><i class="tnd-icon"></i> TND</span>')
+            .replace(/TND/g,'<span class="badge TND">TND</span>')
             .replace(/\[EMPTY\]/g,'<span class="badge EMPTY"><i class="fa fa-circle-o"></i> EMPTY</span>')
             .replace(/\[BLOCK\]/g,'<span class="badge BLOCK"><i class="block-icon"></i> BLOCK</span>')
             .replace(/\[BOMB\]/g,'<span class="badge BOMB"><i class="fa fa-bomb"></i> BOMB</span>')

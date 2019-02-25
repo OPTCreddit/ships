@@ -786,11 +786,11 @@ window.details = {
         "If you have all 5 color types in your crew, boosts ATK by 1.3x, and HP by 1.2x",
         "If you have all 5 color types in your crew, boosts ATK by 1.4x, and HP by 1.2x",
         "If you have all 5 color types in your crew, boosts ATK by 1.4x, and HP by 1.25x",
-        "If you have all 5 color types in your crew, boosts ATK by 1.4x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb",
-        "If you have all 5 color types in your crew, boosts ATK by 1.5x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb",
-        "If you have all 5 color types in your crew, reduces CD of all characters by 1 at the start of battle, boosts ATK by 1.5x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb",
-        "If you have all 5 color types in your crew, reduces CD of all characters by 1 at the start of battle, boosts ATK by 1.55x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb",
-        "If you have all 5 color types in your crew, reduces CD of all characters by 2 at the start of battle, boosts ATK by 1.55x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb"
+        "If you have all 5 color types in your crew, boosts ATK by 1.4x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb (for a total of 1.54x)",
+        "If you have all 5 color types in your crew, boosts ATK by 1.5x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb (for a total of 1.65x)",
+        "If you have all 5 color types in your crew, reduces CD of all characters by 1 at the start of battle, boosts ATK by 1.5x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb (for a total of 1.65x)",
+        "If you have all 5 color types in your crew, reduces CD of all characters by 1 at the start of battle, boosts ATK by 1.55x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb (for a total of 1.705x)",
+        "If you have all 5 color types in your crew, reduces CD of all characters by 2 at the start of battle, boosts ATK by 1.55x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb (for a total of 1.705x)"
       ]
     },
 };

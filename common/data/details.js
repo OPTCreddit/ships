@@ -719,7 +719,6 @@ window.details = {
     38: {
       obtain: "Clear the limited time 4th Anniversary campaign quest",
       period: ["4th Anniversary Part 1", "4th Anniversary Part 2", "4th Anniversary Part 3", "After 4th Anniversary"],
-      jpn: 1,
       effect: [
         "Boosts ATK by 1.5x and EXP/Beli gained by 3x",
         "Boosts ATK by 1.5x. At the start of battle, all specials start at MAX charge",
@@ -775,6 +774,24 @@ window.details = {
         "Changes bottom-right orb to RCV"
       ],
       cd: ["-","-","-","-","-","-","-","-","-",6]
+    },
+    41: {
+      obtain: "Clear the 30 gem unlockable Germa Ship Isle",
+      jpn: 1,
+      cola: [6,9,12,15,18,21,24,27,30],
+      success: [100,100,100,100,100,90,80,70,60],
+      effect: [
+        "If you have all 5 color types in your crew, boosts ATK by 1.2x, and HP by 1.1x",
+        "If you have all 5 color types in your crew, boosts ATK by 1.3x, and HP by 1.1x",
+        "If you have all 5 color types in your crew, boosts ATK by 1.3x, and HP by 1.2x",
+        "If you have all 5 color types in your crew, boosts ATK by 1.4x, and HP by 1.2x",
+        "If you have all 5 color types in your crew, boosts ATK by 1.4x, and HP by 1.25x",
+        "If you have all 5 color types in your crew, boosts ATK by 1.4x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb",
+        "If you have all 5 color types in your crew, boosts ATK by 1.5x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb",
+        "If you have all 5 color types in your crew, reduces CD of all characters by 1 at the start of battle, boosts ATK by 1.5x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb",
+        "If you have all 5 color types in your crew, reduces CD of all characters by 1 at the start of battle, boosts ATK by 1.55x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb",
+        "If you have all 5 color types in your crew, reduces CD of all characters by 2 at the start of battle, boosts ATK by 1.55x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb"
+      ]
     },
 };
 /*

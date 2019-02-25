@@ -64,7 +64,6 @@ filters.decorate = function() {
         if (input.constructor != String) return 'N/A';
         return input
             .replace(/\[?(STR|QCK|DEX|PSY|INT)\]?/g,'<span class="badge $1">$1</span>')
-            .replace(/(HP|ATK)/g,'<span class="badge stats">$1</span>')
             .replace(/RCV/g,'<span class="badge RCV">RCV</span>')
             .replace(/\[TND\]/g,'<span class="badge TND"><i class="tnd-icon"></i> TND</span>')
             .replace(/\[EMPTY\]/g,'<span class="badge EMPTY"><i class="fa fa-circle-o"></i> EMPTY</span>')

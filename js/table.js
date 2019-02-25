@@ -228,7 +228,7 @@ angular.module('unb') .run(function($rootScope, $timeout, $storage, MATCHER_IDS)
           x.cola,
 
           x.effect,
-          ... (specialCheck ? 'Y' : '-'),
+          ... (specialCheck ? '✔' : '-'),
           x.number
       ];
       return result;

@@ -39,5 +39,6 @@ window.units = [
   [39, "Thousand Sunny - 4th Anniversary Model", 0, "Boosts ATK by 1.2x"],
   [40, "Nostra Castello", 225, "Boosts ATK by 1.55x and HP by 1.3x and makes it a little easier to hit PERFECT, cuts the current HP of all enemies by 3% at the end of the turn, reduces crew's ATK if you have a Slasher, Free Spirit or Powerhouse characters in your crew"],
   [41, "Queen Mama Chanter", 180, "Boosts chances of getting matching orbs and HP by 1.25x. If your Captain is Driven or Powerhouse, boosts ATK of STR/DEX/QCK characters by 1.5x, and by 1.65x after 3 consecutive PERFECTs", 1],
+  [42, "Germa 66 Ship", 162, "If you have all 5 color types in your crew, reduces CD of all characters by 2 at the start of battle, boosts ATK by 1.55x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb"],
 ];
 // [assetID, "Name", cola, maxEffect, special],

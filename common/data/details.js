@@ -746,7 +746,6 @@ window.details = {
     },
     40: {
       obtain: "Clear Big Mom's 0-Stamina Training Forest (Forest of Training: Mama)",
-      jpn: 1,
       cola: [10,10,10,20,20,20,30,30,30],
       success: [100,75,50,100,75,50,100,75,50],
       effect: [

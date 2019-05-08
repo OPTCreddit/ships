@@ -792,6 +792,15 @@ window.details = {
         "If you have all 5 color types in your crew, reduces CD of all characters by 2 at the start of battle, boosts ATK by 1.55x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb (for a total of 1.705x)"
       ]
     },
+    42: {
+      obtain: "Clear the limited time 5th Anniversary campaign quest",
+      period: ["5th Anniversary Part 1", "5th Anniversary Part 2", "After 5th Anniversary"],
+      effect: [
+        "Boosts ATK by 1.5x and EXP/Beli gained by 3x",
+        "Boosts ATK by 1.5x. At the start of battle, all specials start at MAX charge",
+        "Boosts ATK by 1.2x"
+      ]
+    },
 };
 /*
 NUMBER: {

@@ -728,7 +728,7 @@ window.details = {
     },
     39: {
       obtain: "Clear Capone Bege's 0-Stamina Training Forest (Forest of Training: Gang).",
-      jpn: 1,
+      note: "Your crew's attack is reduced by 50% for every instance of a Powerhouse/Slasher/Free Spirit class on your crew, which can stack even from the same unit if they have two of the mentioned classes",
       cola: [25,25,25,25,25,25,25,25,25],
       success: [95,95,94,93,92,91,90,89,88],
       effect: [

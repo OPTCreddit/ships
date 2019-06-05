@@ -801,6 +801,36 @@ window.details = {
         "Boosts ATK by 1.2x"
       ]
     },
+    43: {
+      obtain: "Clear the 30 gem unlockable Hoe Isle",
+      jpn: 1,
+      cola: [10,12,14,16,18,20,22,24,26],
+      success: [null,null,null,null,null,null,null,null,null],
+      effect: [
+        "Boosts ATK/EXP by 1.2x",
+        "Boosts ATK by 1.3x and EXP gained by 1.2x",
+        "Boosts ATK/EXP by 1.3x",
+        "Boosts ATK by 1.4x and EXP gained by 1.3x",
+        "Boosts ATK/EXP by 1.4x",
+        "Boosts ATK by 1.4x and EXP gained by 1.45x",
+        "Boosts ATK/EXP by 1.5x",
+        "Boosts ATK by 1.5x and EXP gained by 1.55x",
+        "Reduces CD of all characters by 1 at the start of battle, boosts ATK by 1.5x and EXP gained by 1.6x",
+        "Reduces CD of all characters by 1 at the start of battle, boosts ATK by 1.5x and EXP gained by 1.75x",
+      ],
+      special: [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "Recovers 3500 HP every turn for 2 turns"
+      ],
+    }
 };
 /*
 NUMBER: {

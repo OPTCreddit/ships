@@ -830,6 +830,7 @@ window.details = {
         "-",
         "Recovers 3500 HP every turn for 2 turns"
       ],
+      cd: ["-","-","-","-","-","-","-","-","-",15]
     }
 };
 /*

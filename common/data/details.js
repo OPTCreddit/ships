@@ -803,7 +803,6 @@ window.details = {
     },
     43: {
       obtain: "Clear the 30 gem unlockable Hoe Isle",
-      jpn: 1,
       cola: [10,12,14,16,18,20,22,24,26],
       success: [null,null,null,null,null,null,null,null,null],
       effect: [

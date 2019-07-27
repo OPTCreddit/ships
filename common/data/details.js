@@ -830,6 +830,37 @@ window.details = {
         "Recovers 3500 HP every turn for 2 turns"
       ],
       cd: ["-","-","-","-","-","-","-","-","-",15]
+    },
+    44: {
+      obtain: "Clear the 30 gem unlockable Megalo Isle",
+      jpn: 1,
+      cola: [8,10,12,14,16,18,20,22,25],
+      success: [null,null,null,null,null,null,null,null,null],
+      effect: [
+        "Boosts HP by 1.1x. If your captain is PSY or INT, boosts ATK of all characters by 1.2x, captain's RCV by 20, and reduces damage received by 1%",
+        "Boosts HP by 1.1x. If your captain is PSY or INT, boosts ATK of all characters by 1.3x, captain's RCV by 40, and reduces damage received by 2%",
+        "Boosts HP by 1.2x. If your captain is PSY or INT, boosts ATK of all characters by 1.3x, captain's RCV by 60, and reduces damage received by 3%",
+        "Boosts HP by 1.2x. If your captain is PSY or INT, boosts ATK of all characters by 1.4x, captain's RCV by 80, and reduces damage received by 4%",
+        "Boosts HP by 1.25x. If your captain is PSY or INT, boosts ATK of all characters by 1.4x, captain's RCV by 100, and reduces damage received by 5%",
+        "Boosts HP by 1.25x. If your captain is PSY or INT, boosts ATK of all characters by 1.4x, captain's RCV by 120, and reduces damage received by 6%",
+        "Boosts HP by 1.25x. If your captain is PSY or INT, boosts ATK of all characters by 1.5x, captain's RCV by 140, and reduces damage received by 7%",
+        "Boosts HP by 1.25x. If your captain is PSY or INT, boosts ATK of all characters by 1.5x, captain's RCV by 160, and reduces damage received by 8%",
+        "Boosts HP by 1.25x. If your captain is PSY or INT, boosts ATK of all characters by 1.5x, captain's RCV by 180, and reduces damage received by 9%",
+        "Boosts HP by 1.25x. If your captain is PSY or INT, boosts ATK of all characters by 1.5x, captain's RCV by 200, and reduces damage received by 10%",
+      ],
+      special: [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "Locks all orbs for 1 turn"
+      ],
+      cd: ["-","-","-","-","-","-","-","-","-",8]
     }
 };
 /*

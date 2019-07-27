@@ -41,6 +41,7 @@ window.units = [
   [41, "Queen Mama Chanter", 180, "Boosts chances of getting matching orbs and HP by 1.25x. If your Captain is Driven or Powerhouse, boosts ATK of STR/DEX/QCK characters by 1.5x, and by 1.65x after 3 consecutive PERFECTs", 1],
   [42, "Germa 66 Ship", 162, "If you have all 5 color types in your crew, reduces CD of all characters by 2 at the start of battle, boosts ATK by 1.55x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb (for a total of 1.705x)"],
   [43, "Going Merry - 5th Anniversary Model", 0, "Boosts ATK by 1.2x"],
-  [44, "Hoe", 162, "Reduces CD of all characters by 1 at the start of battle, boosts ATK by 1.5x and EXP gained by 1.75x", 1]
+  [44, "Hoe", 162, "Reduces CD of all characters by 1 at the start of battle, boosts ATK by 1.5x and EXP gained by 1.75x", 1],
+  [45, "Megalo", 145, "Boosts HP by 1.25x. If your captain is PSY or INT, boosts ATK of all characters by 1.5x, captain's RCV by 200, and reduces damage received by 10%", 1]
 ];
 // [assetID, "Name", cola, maxEffect, special],

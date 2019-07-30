@@ -776,7 +776,6 @@ window.details = {
     },
     41: {
       obtain: "Clear the 30 gem unlockable Germa Ship Isle",
-      jpn: 1,
       cola: [6,9,12,15,18,21,24,27,30],
       success: [100,100,100,100,100,90,80,70,60],
       effect: [

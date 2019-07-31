@@ -12,7 +12,7 @@ window.details = {
           "Boosts HP by 1.1x and Captain's RCV by 90",
           "Boosts HP by 1.1x and Captain's RCV by 100",
           "Boosts HP by 1.1x and Captain's RCV by 110",
-          "Boosts HP by 1.3x and Captain's RCV by 120",
+          "Boosts HP by 1.3x, Captain's RCV by 120, and makes it slightly easier to hit PERFECTs",
         ]
     },
     2: {
@@ -30,7 +30,7 @@ window.details = {
         "Boosts ATK by 1.2x and Captain's HP by 230",
         "Boosts ATK by 1.2x and Captain's HP by 250",
         "Boosts ATK by 1.2x and Captain's HP by 270",
-        "Boosts ATK by 1.5x and Captain's HP by 300",
+        "BBoosts ATK by 1.5x, Captain's HP by 300, and makes it easier to hit PERFECTs",
       ]
     },
     3: {
@@ -358,16 +358,16 @@ window.details = {
       cola: [5,8,18,22,25,25,25,25,25],
       success: [50,50,50,50,50,50,50,50,50,40],
       effect: [
-        "Boosts Driven characters' ATK by 1.2x and HP by 1.1x, makes it a little easier for Driven characters to hit PERFECT",
-        "Boosts Driven characters' ATK by 1.2x and HP by 1.1x, makes it a little easier for Driven characters to hit PERFECT",
-        "Boosts Driven characters' ATK by 1.3x and HP by 1.1x, makes it a little easier for Driven characters to hit PERFECT",
-        "Boosts Driven characters' ATK by 1.3x and HP by 1.15x, makes it a little easier for Driven characters to hit PERFECT",
-        "Boosts Driven characters' ATK by 1.3x and HP by 1.2x, makes it a little easier for Driven characters to hit PERFECT",
-        "Boosts Driven characters' ATK by 1.3x and HP by 1.2x, makes it a little easier for Driven characters to hit PERFECT",
-        "Boosts Driven characters' ATK by 1.4x and HP by 1.2x, makes it a little easier for Driven characters to hit PERFECT",
-        "Boosts Driven characters' ATK by 1.4x and HP by 1.2x, makes it a little easier for Driven characters to hit PERFECT",
-        "Boosts Driven characters' ATK by 1.4x and HP by 1.2x, makes it easier for Driven characters to hit PERFECT",
-        "Boosts Driven characters' ATK by 1.5x and HP by 1.35x, makes it easier for Driven characters to hit PERFECT",
+        "Boosts Driven characters' ATK by 1.2x and HP by 1.1x, makes it a little easier for Driven characters to hit PERFECTs",
+        "Boosts Driven characters' ATK by 1.2x and HP by 1.1x, makes it a little easier for Driven characters to hit PERFECTs",
+        "Boosts Driven characters' ATK by 1.3x and HP by 1.1x, makes it a little easier for Driven characters to hit PERFECTs",
+        "Boosts Driven characters' ATK by 1.3x and HP by 1.15x, makes it a little easier for Driven characters to hit PERFECTs",
+        "Boosts Driven characters' ATK by 1.3x and HP by 1.2x, makes it a little easier for Driven characters to hit PERFECTs",
+        "Boosts Driven characters' ATK by 1.3x and HP by 1.2x, makes it a little easier for Driven characters to hit PERFECTs",
+        "Boosts Driven characters' ATK by 1.4x and HP by 1.2x, makes it a little easier for Driven characters to hit PERFECTs",
+        "Boosts Driven characters' ATK by 1.4x and HP by 1.2x, makes it a little easier for Driven characters to hit PERFECTs",
+        "Boosts Driven characters' ATK by 1.4x and HP by 1.2x, makes it easier for Driven characters to hit PERFECTs",
+        "Boosts Driven characters' ATK by 1.5x and HP by 1.35x, makes it easier for Driven characters to hit PERFECTs",
       ],
       special: [
         "Boosts chain multiplier by 0.2 for 2 turns",
@@ -446,16 +446,16 @@ window.details = {
       cola: [10,10,15,15,20,20,20,20,25,30],
       success: [70,70,70,70,50,50,50,50,50,50],
       effect: [
-        "Boosts Slashers and Free Spirit characters' ATK by 1.3x and HP by 1.1x, makes it a little easier for them to hit PERFECT",
-        "Boosts Slashers and Free Spirit characters' ATK by 1.3x and HP by 1.1x, makes it a little easier for them to hit PERFECT",
-        "Boosts Slashers and Free Spirit characters' ATK by 1.3x and HP by 1.1x, makes it a little easier for them to hit PERFECT",
-        "Boosts Slashers and Free Spirit characters' ATK by 1.3x and HP by 1.1x, makes it a little easier for them to hit PERFECT",
-        "Boosts Slashers and Free Spirit characters' ATK by 1.3x and HP by 1.2x, makes it a little easier for them to hit PERFECT",
-        "Boosts Slashers and Free Spirit characters' ATK by 1.3x and HP by 1.2x, makes it a little easier for them to hit PERFECT",
-        "Boosts Slashers and Free Spirit characters' ATK by 1.4x and HP by 1.2x, makes it a little easier for them to hit PERFECT",
-        "Boosts Slashers and Free Spirit characters' ATK by 1.4x and HP by 1.2x, makes it a little easier for them to hit PERFECT",
-        "Boosts Slashers and Free Spirit characters' ATK by 1.4x and HP by 1.25x, makes it a little easier for them to hit PERFECT",
-        "Boosts Slashers and Free Spirit characters' ATK by 1.5x and HP by 1.25x, makes it a little easier for them to hit PERFECT",
+        "Boosts Slashers and Free Spirit characters' ATK by 1.3x and HP by 1.1x, makes it a little easier for them to hit PERFECTs",
+        "Boosts Slashers and Free Spirit characters' ATK by 1.3x and HP by 1.1x, makes it a little easier for them to hit PERFECTs",
+        "Boosts Slashers and Free Spirit characters' ATK by 1.3x and HP by 1.1x, makes it a little easier for them to hit PERFECTs",
+        "Boosts Slashers and Free Spirit characters' ATK by 1.3x and HP by 1.1x, makes it a little easier for them to hit PERFECTs",
+        "Boosts Slashers and Free Spirit characters' ATK by 1.3x and HP by 1.2x, makes it a little easier for them to hit PERFECTs",
+        "Boosts Slashers and Free Spirit characters' ATK by 1.3x and HP by 1.2x, makes it a little easier for them to hit PERFECTs",
+        "Boosts Slashers and Free Spirit characters' ATK by 1.4x and HP by 1.2x, makes it a little easier for them to hit PERFECTs",
+        "Boosts Slashers and Free Spirit characters' ATK by 1.4x and HP by 1.2x, makes it a little easier for them to hit PERFECTs",
+        "Boosts Slashers and Free Spirit characters' ATK by 1.4x and HP by 1.25x, makes it a little easier for them to hit PERFECTs",
+        "Boosts Slashers and Free Spirit characters' ATK by 1.5x and HP by 1.25x, makes it a little easier for them to hit PERFECTs",
       ],
       special: [
         "Heals 5000 HP when crew's HP is extremely low (<20%)",
@@ -683,11 +683,11 @@ window.details = {
         "Boosts Powerhouse and Cerebral characters' ATK by 1.2x and HP by 1.1x, makes their RCV orbs beneficial",
         "Boosts Powerhouse and Cerebral characters' ATK by 1.2x and HP by 1.1x, makes their TND and RCV orbs beneficial",
         "Boosts Powerhouse and Cerebral characters' ATK by 1.3x and HP by 1.1x, makes their TND and RCV orbs beneficial",
-        "Boosts Powerhouse and Cerebral characters' ATK by 1.3x and HP by 1.1x, makes their TND and RCV orbs beneficial, and makes it a little easier for them to hit PERFECT",
-        "Boosts Powerhouse and Cerebral characters' ATK by 1.3x and HP by 1.2x, makes their TND and RCV orbs beneficial, and makes it a little easier for them to hit PERFECT",
-        "Boosts Powerhouse and Cerebral characters' ATK by 1.4x and HP by 1.2x, makes their TND and RCV orbs beneficial, and makes it easier for them to hit PERFECT",
-        "Boosts Powerhouse and Cerebral characters' ATK by 1.5x and HP by 1.2x, makes their TND and RCV orbs beneficial, and makes it easier for them to hit PERFECT",
-        "Boosts Powerhouse and Cerebral characters' ATK by 1.55x and HP by 1.25x, makes their TND and RCV orbs beneficial, and makes it much easier for them to hit PERFECT",
+        "Boosts Powerhouse and Cerebral characters' ATK by 1.3x and HP by 1.1x, makes their TND and RCV orbs beneficial, and makes it a little easier for them to hit PERFECTs",
+        "Boosts Powerhouse and Cerebral characters' ATK by 1.3x and HP by 1.2x, makes their TND and RCV orbs beneficial, and makes it a little easier for them to hit PERFECTs",
+        "Boosts Powerhouse and Cerebral characters' ATK by 1.4x and HP by 1.2x, makes their TND and RCV orbs beneficial, and makes it easier for them to hit PERFECTs",
+        "Boosts Powerhouse and Cerebral characters' ATK by 1.5x and HP by 1.2x, makes their TND and RCV orbs beneficial, and makes it easier for them to hit PERFECTs",
+        "Boosts Powerhouse and Cerebral characters' ATK by 1.55x and HP by 1.25x, makes their TND and RCV orbs beneficial, and makes it much easier for them to hit PERFECTs",
       ]
     },
     36: {
@@ -737,11 +737,11 @@ window.details = {
         "Boosts ATK by 1.25x, reduces crew's ATK if you have a Slasher, Free Spirit or Powerhouse character in your crew",
         "Boosts ATK by 1.3x, reduces crew's ATK if you have a Slasher, Free Spirit or Powerhouse character in your crew",
         "Boosts ATK by 1.4x, reduces crew's ATK if you have a Slasher, Free Spirit or Powerhouse character in your crew",
-        "Boosts ATK by 1.4x and makes it a little easier to hit PERFECT, reduces crew's ATK if you have a Slasher, Free Spirit or Powerhouse character in your crew",
-        "Boosts ATK by 1.4x and makes it a little easier to hit PERFECT, reduces crew's ATK if you have a Slasher, Free Spirit or Powerhouse character in your crew",
-        "Boosts ATK by 1.4x and HP by 1.1x and makes it a little easier to hit PERFECT, reduces crew's ATK if you have a Slasher, Free Spirit or Powerhouse character in your crew",
-        "Boosts ATK by 1.4x and HP by 1.2x and makes it a little easier to hit PERFECT, reduces crew's ATK if you have a Slasher, Free Spirit or Powerhouse character in your crew",
-        "Boosts ATK by 1.55x and HP by 1.3x and makes it a little easier to hit PERFECT, cuts the current HP of all enemies by 3% at the end of the turn, reduces crew's ATK if you have a Slasher, Free Spirit or Powerhouse character in your crew",
+        "Boosts ATK by 1.4x and makes it a little easier to hit PERFECTs, reduces crew's ATK if you have a Slasher, Free Spirit or Powerhouse character in your crew",
+        "Boosts ATK by 1.4x and makes it a little easier to hit PERFECTs, reduces crew's ATK if you have a Slasher, Free Spirit or Powerhouse character in your crew",
+        "Boosts ATK by 1.4x and HP by 1.1x and makes it a little easier to hit PERFECTs, reduces crew's ATK if you have a Slasher, Free Spirit or Powerhouse character in your crew",
+        "Boosts ATK by 1.4x and HP by 1.2x and makes it a little easier to hit PERFECTs, reduces crew's ATK if you have a Slasher, Free Spirit or Powerhouse character in your crew",
+        "Boosts ATK by 1.55x and HP by 1.3x and makes it a little easier to hit PERFECTs, cuts the current HP of all enemies by 3% at the end of the turn, reduces crew's ATK if you have a Slasher, Free Spirit or Powerhouse character in your crew",
       ]
     },
     40: {
@@ -786,9 +786,9 @@ window.details = {
         "If you have all 5 color types in your crew, boosts ATK by 1.4x, and HP by 1.25x",
         "If you have all 5 color types in your crew, boosts ATK by 1.4x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb (for a total of 1.54x)",
         "If you have all 5 color types in your crew, boosts ATK by 1.5x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb (for a total of 1.65x)",
-        "If you have all 5 color types in your crew, reduces CD of all characters by 1 at the start of battle, boosts ATK by 1.5x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb (for a total of 1.65x)",
-        "If you have all 5 color types in your crew, reduces CD of all characters by 1 at the start of battle, boosts ATK by 1.55x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb (for a total of 1.705x)",
-        "If you have all 5 color types in your crew, reduces CD of all characters by 2 at the start of battle, boosts ATK by 1.55x, HP by 1.25x, and makes it slightly easier to hit PERFECT. Boosts ATK by an additional 1.1x if you have a RCV or TND orb (for a total of 1.705x)"
+        "If you have all 5 color types in your crew, reduces CD of all characters by 1 at the start of battle, boosts ATK by 1.5x, HP by 1.25x, and makes it slightly easier to hit PERFECTs. Boosts ATK by an additional 1.1x if you have a RCV or TND orb (for a total of 1.65x)",
+        "If you have all 5 color types in your crew, reduces CD of all characters by 1 at the start of battle, boosts ATK by 1.55x, HP by 1.25x, and makes it slightly easier to hit PERFECTs. Boosts ATK by an additional 1.1x if you have a RCV or TND orb (for a total of 1.705x)",
+        "If you have all 5 color types in your crew, reduces CD of all characters by 2 at the start of battle, boosts ATK by 1.55x, HP by 1.25x, and makes it slightly easier to hit PERFECTs. Boosts ATK by an additional 1.1x if you have a RCV or TND orb (for a total of 1.705x)"
       ]
     },
     42: {

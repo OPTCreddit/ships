@@ -860,7 +860,16 @@ window.details = {
         "Locks all orbs for 1 turn"
       ],
       cd: ["-","-","-","-","-","-","-","-","-",8]
-    }
+    },
+    45: {
+      obtain: "Clear the limited time STAMPEDE Movie Collaboration Isle",
+      jpn: 1,
+      period: ["During collaboration event", "After collaboration event"],
+      effect: [
+        "Boosts ATK and EXP gained by 1.5x",
+        "Boosts ATK by 1.2x"
+      ]
+    },
 };
 /*
 NUMBER: {

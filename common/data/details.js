@@ -832,7 +832,6 @@ window.details = {
     },
     44: {
       obtain: "Clear the 30 gem unlockable Megalo Isle",
-      jpn: 1,
       cola: [8,10,12,14,16,18,20,22,25],
       success: [null,null,null,null,null,null,null,null,null],
       effect: [

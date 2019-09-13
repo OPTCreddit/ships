@@ -803,7 +803,7 @@ window.details = {
     43: {
       obtain: "Clear the 30 gem unlockable Hoe Isle",
       cola: [10,12,14,16,18,20,22,24,26],
-      success: [null,null,null,null,null,null,null,null,null],
+      success: ["?","?","?","?","?","?","?","?","?"],
       effect: [
         "Boosts ATK/EXP by 1.2x",
         "Boosts ATK by 1.3x and EXP gained by 1.2x",
@@ -833,7 +833,7 @@ window.details = {
     44: {
       obtain: "Clear the 30 gem unlockable Megalo Isle",
       cola: [8,10,12,14,16,18,20,22,25],
-      success: [null,null,null,null,null,null,null,null,null],
+      success: ["?","?","?","?","?","?","?","?","?"],
       effect: [
         "Boosts HP by 1.1x. If your captain is PSY or INT, boosts ATK of all characters by 1.2x, captain's RCV by 20, and reduces damage received by 1%",
         "Boosts HP by 1.1x. If your captain is PSY or INT, boosts ATK of all characters by 1.3x, captain's RCV by 40, and reduces damage received by 2%",
@@ -869,6 +869,23 @@ window.details = {
         "Boosts ATK by 1.2x"
       ]
     },
+    46: {
+      obtain: "Clear Ultimate difficulty of the Raid Ace event isle once during it's debut",
+      cola: [8,10,12,14,16,18,20,22,25],
+      success: ["?","?","?","?","?","?","?","?","?"],
+      effect: [
+        "Boosts Powerhouse, Free Spirit and Fighter characters' HP by 1.2x and ATK by 1.05x, and boosts their ATK by approximately 1.2x if HP is 30% or below before attacking",
+        "Boosts Powerhouse, Free Spirit and Fighter characters' HP by 1.2x and ATK by 1.1x, and boosts their ATK by approximately 1.2x if HP is 30% or below before attacking",
+        "Boosts Powerhouse, Free Spirit and Fighter characters' HP by 1.2x and ATK by 1.15x, and boosts their ATK by approximately 1.2x if HP is 30% or below before attacking",
+        "Boosts Powerhouse, Free Spirit and Fighter characters' HP and ATK by 1.2x, and boosts their ATK by approximately 1.3x if HP is 30% or below before attacking",
+        "Boosts Powerhouse, Free Spirit and Fighter characters' HP by 1.2x and ATK by 1.25x, and boosts their ATK by approximately 1.3x if HP is 30% or below before attacking",
+        "Boosts Powerhouse, Free Spirit and Fighter characters' HP by 1.2x and ATK by 1.3x, and boosts their ATK by approximately 1.4x if HP is 30% or below before attacking",
+        "Boosts Powerhouse, Free Spirit and Fighter characters' HP by 1.2x and ATK by 1.35x, and boosts their ATK by approximately 1.4x if HP is 30% or below before attacking",
+        "Boosts Powerhouse, Free Spirit and Fighter characters' HP by 1.2x and ATK by 1.4x, and boosts their ATK by approximately 1.5x if HP is 30% or below before attacking",
+        "Boosts Powerhouse, Free Spirit and Fighter characters' HP by 1.2x and ATK by 1.45x, and boosts their ATK by approximately 1.5x if HP is 30% or below before attacking",
+        "Boosts Powerhouse, Free Spirit and Fighter characters' HP by 1.2x and ATK by 1.5x, and boosts their ATK by approximately 1.6x if HP is 30% or below before attacking",
+      ]
+    }
 };
 /*
 NUMBER: {

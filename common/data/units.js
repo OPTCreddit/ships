@@ -43,6 +43,7 @@ window.units = [
   [43, "Going Merry - 5th Anniversary Model", 0, "Boosts ATK by 1.2x"],
   [44, "Hoe", 162, "Reduces CD of all characters by 1 at the start of battle, boosts ATK by 1.5x and EXP gained by 1.75x", 1],
   [45, "Megalo", 145, "Boosts HP by 1.25x. If your captain is PSY or INT, boosts ATK of all characters by 1.5x, captain's RCV by 200, and reduces damage received by 10%", 1],
-  [46, "Thousand Sunny - Flying Model", 0, "Boosts ATK and EXP gained by 1.5x"]
+  [46, "Thousand Sunny - Flying Model", 0, "Boosts ATK and EXP gained by 1.5x"],
+  [47, "Piece of Spadille", 145, "Boosts Powerhouse, Free Spirit and Fighter characters' HP by 1.2x and ATK by 1.5x, and boosts their ATK by approximately 1.6x if HP is 30% or below before attacking"]
 ];
 // [assetID, "Name", cola, maxEffect, special],

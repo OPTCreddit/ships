@@ -48,7 +48,7 @@ directives.characterTable = function($rootScope, $timeout, $compile, $storage) {
 				$timeout(function() { element.fnDraw(); });
 			};
             // report link
-            var link = $('<span class="help-link">If you find any incorrect info or bugs, please <a>send me a message on reddit</a></span>');
+            var link = $('<span class="help-link">If you have something to report, please <a>send me a message on reddit</a></span>');
             link.find('a').attr('href', 'https://www.reddit.com/message/compose/?to=antonlabz&subject=ships_db');
             link.insertAfter($('.dataTables_length'));
             // night toggle
@@ -58,7 +58,7 @@ directives.characterTable = function($rootScope, $timeout, $compile, $storage) {
                 if (!$rootScope.$$phase) $rootScope.$apply();
             });
             if ($rootScope.nightMode) nightToggle.find('input').attr('checked', 'checked');
-            nightToggle.insertBefore($('.dataTables_length'));
+            nightToggle.insertBefore($('.help-link'));
         }
     };
 };

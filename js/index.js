@@ -1,5 +1,13 @@
 /* jshint loopfunc:true */
 
+$(window).load(function () {
+    $('.hover_bkgr_fricc').show();
+
+    $('.hover_bkgr_fricc').click(function(){
+        $('.hover_bkgr_fricc').hide();
+    });
+});
+
 (function() {
 
 var app = angular.module('unb', [ 'ui.router', 'ui.bootstrap', 'ngSanitize', 'chart.js', 'ngDialog' ]);

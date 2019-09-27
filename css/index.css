@@ -8,7 +8,51 @@ Enable for April First
 transform: scale(1, -1);
 }
 */
+/* Popup box BEGIN */
+.hover_bkgr_fricc{
+    cursor:pointer;
+    display:none;
+    position:fixed;
+    text-align:center;
+    bottom:10px;
+    right:25px;
+    z-index:10000;
+}
+.hover_bkgr_fricc b {
+  font-size: 15px;
+}
 
+.hover_bkgr_fricc hr {
+  margin-bottom: 5px;
+  margin-top: -5px;
+  border-top: 1px solid #a0a0a0;
+}
+
+.hover_bkgr_fricc ul {
+  padding-inline-start: 0;
+}
+
+.hover_bkgr_fricc li {
+      list-style-position: inside;
+}
+.hover_bkgr_fricc > div {
+    background-color: #fff2eb;
+    box-shadow: 10px 10px 40px #111;
+    display: inline-block;
+    height: auto;
+    vertical-align: middle;
+    position: relative;
+    border-radius: 8px;
+    padding: 5px 5%;
+}
+.hidepopup {
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  color: #777;
+  font-size: 12px;
+}
+/* Popup box END */
 body, html {
     height: 100%;
     font-family: 'PT Sans', sans-serif;
@@ -634,7 +678,7 @@ body > div.popup.ng-scope.visible > div.inner-container.ng-scope > div > div > d
 }
 
 .dataTables_length {
-    float: right !important;
+    display: none;
 }
 
 tr.incomplete td:nth-child(2) > a:after {

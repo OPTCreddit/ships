@@ -7,7 +7,7 @@ $(window).load(function () {
         $('.hover_bkgr_fricc').hide();
     });
 
-    
+    $('select[name="mainTable_length"]').val(999).change();
 });
 
 

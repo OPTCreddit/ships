@@ -16,7 +16,6 @@ directives.characterTable = function($rootScope, $timeout, $compile, $storage) {
 		template: '<table id="mainTable" class="table table-striped-column panel panel-default"></table>',
 		link: function(scope, element, attrs) {
 			var table = element.dataTable({
-				iDisplayLength: $storage.get('unitsPerPage', 10),
 				stateSave: true,
 				data: scope.table.data,
 				columns: scope.table.columns,

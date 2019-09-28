@@ -6,7 +6,11 @@ $(window).load(function () {
     $('.hover_bkgr_fricc').click(function(){
         $('.hover_bkgr_fricc').hide();
     });
+
+    
 });
+
+
 
 (function() {
 

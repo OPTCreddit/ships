@@ -48,7 +48,7 @@ transform: scale(1, -1);
 .hidepopup {
   position: absolute;
   left: 5px;
-  top: 5px;
+  bottom: 0;
   color: #777;
   font-size: 12px;
 }

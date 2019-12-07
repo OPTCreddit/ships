@@ -914,7 +914,7 @@ window.details = {
         "-",
         "-",
         "-",
-        "Heals 5000 HP and boosts chain multiplier by 0.5 for 1 turn."
+        "Heals 5000 HP and +0.5 to chain multiplier for 1 turn."
       ],
       cd: ["-","-","-","-","-","-","-","-","-",11]
     }

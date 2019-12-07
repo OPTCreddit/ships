@@ -885,6 +885,36 @@ window.details = {
         "Boosts Powerhouse, Free Spirit and Fighter characters' HP by 1.2x and ATK by 1.45x, and boosts their ATK by approximately 1.5x if HP is 30% or below before attacking",
         "Boosts Powerhouse, Free Spirit and Fighter characters' HP by 1.2x and ATK by 1.5x, and boosts their ATK by approximately 1.6x if HP is 30% or below before attacking",
       ]
+    },
+    47: {
+      obtain: "Clear the 30-gem unlockable Koi Ship Isle",
+      jpn: 1,
+      note: "The actual HP threshold requirement is >99%, not 100%. The ship's multiplier is also able to change during the turn, as the HP condition is not 'at the start of the turn'.",
+      cola: [6,9,12,15,18,21,24,27,30],
+      success: ["?","?","?","?","?","?","?","?","?"],
+      effect: [
+        "Boosts QCK and INT characters' ATK by 1.2x",
+        "Boosts QCK and INT characters' ATK by 1.2x and HP by 1.1x",
+        "Boosts QCK and INT characters' ATK by 1.25x and HP by 1.1x",
+        "Boosts QCK and INT characters' ATK by 1.25x and HP by 1.2x",
+        "Boosts QCK and INT characters' ATK by 1.3x and HP by 1.2x",
+        "Boosts QCK and INT characters' ATK by 1.3x and HP by 1.2x, and makes their RCV orbs beneficial.",
+        "Boosts QCK and INT characters' ATK by 1.3x and HP by 1.2x, and makes their RCV orbs beneficial. If HP is full before attacking, boosts ATK by 1.4x instead.",
+        "Boosts QCK and INT characters' ATK by 1.4x and HP by 1.2x, and makes their RCV orbs beneficial. If HP is full before attacking, boosts ATK by 1.5x instead.",
+        "Boosts QCK and INT characters' ATK by 1.3x and HP by 1.5x, and makes their RCV orbs beneficial. If HP is full before attacking, boosts ATK by 1.6x instead.",
+      ],
+      special: [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "Heals 5000 HP and boosts chain multiplier by 0.5 for 1 turn."
+      ],
     }
 };
 /*

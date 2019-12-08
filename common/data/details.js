@@ -17,7 +17,7 @@ window.details = {
     },
     2: {
       obtain: "Clear Syrup Village",
-      note: "On Global, the success rate is 100% for all levels.",
+      note: "On Global, the success rate is 100% for all levels. Also, the easier PERFECTs part of the description is only available in JPN for now.",
       cola: [3,3,5,5,7,7,9,9,9],
       success: [100,75,75,60,50,40,30,20,20],
       effect: [
@@ -30,7 +30,7 @@ window.details = {
         "Boosts ATK by 1.2x and Captain's HP by 230",
         "Boosts ATK by 1.2x and Captain's HP by 250",
         "Boosts ATK by 1.2x and Captain's HP by 270",
-        "BBoosts ATK by 1.5x, Captain's HP by 300, and makes it easier to hit PERFECTs",
+        "Boosts ATK by 1.5x, Captain's HP by 300, and makes it easier to hit PERFECTs",
       ]
     },
     3: {

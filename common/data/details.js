@@ -17,7 +17,7 @@ window.details = {
     },
     2: {
       obtain: "Clear Syrup Village",
-      note: "On Global, the success rate is 100% for all levels. Also, the easier PERFECTs part of the description is only available in JPN for now.",
+      note: "On Global, the success rate is 100% for all levels.",
       cola: [3,3,5,5,7,7,9,9,9],
       success: [100,75,75,60,50,40,30,20,20],
       effect: [

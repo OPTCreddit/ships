@@ -901,8 +901,8 @@ window.details = {
         "Boosts QCK and INT characters' ATK by 1.3x and HP by 1.2x, and makes their RCV orbs beneficial.",
         "Boosts QCK and INT characters' ATK by 1.3x and HP by 1.2x, and makes their RCV orbs beneficial. If HP is full before attacking, boosts ATK by 1.4x instead.",
         "Boosts QCK and INT characters' ATK by 1.4x and HP by 1.2x, and makes their RCV orbs beneficial. If HP is full before attacking, boosts ATK by 1.5x instead.",
-        "Boosts QCK and INT characters' ATK by 1.3x and HP by 1.5x, and makes their RCV orbs beneficial. If HP is full before attacking, boosts ATK by 1.6x instead.",
-        "Boosts QCK and INT characters' ATK by 1.3x and HP by 1.5x, and makes their RCV orbs beneficial. If HP is full before attacking, boosts ATK by 1.6x instead.",
+        "Boosts QCK and INT characters' ATK by 1.5x and HP by 1.2x, and makes their RCV orbs beneficial. If HP is full before attacking, boosts ATK by 1.6x instead.",
+        "Boosts QCK and INT characters' ATK by 1.5x and HP by 1.2x, and makes their RCV orbs beneficial. If HP is full before attacking, boosts ATK by 1.6x instead.",
       ],
       special: [
         "-",

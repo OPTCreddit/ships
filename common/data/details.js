@@ -917,6 +917,23 @@ window.details = {
         "Heals 5000 HP and +0.5 to chain multiplier for 1 turn."
       ],
       cd: ["-","-","-","-","-","-","-","-","-",11]
+    },
+    48: {
+      obtain: "Clear Forest of Training: Straw",
+      jpn: 1,
+      cola: [6,9,12,15,18,21,24,27,30],
+      success: ["?","?","?","?","?","?","?","?","?"],
+      effect: [
+        "Boosts ATK of Slasher and Striker characters by 1.2x",
+        "Boosts Slasher and Striker characters' HP by 1.1x and ATK by 1.2x",
+        "Boosts Slasher and Striker characters' HP by 1.1x and ATK by 1.25x",
+        "Boosts Slasher and Striker characters' HP by 1.2x and ATK by 1.25x",
+        "Boosts Slasher and Striker characters' HP by 1.2x and ATK by 1.3x",
+        "Boosts Slasher and Striker characters' HP by 1.25x and ATK by 1.3x",
+        "Boosts Slasher and Striker characters' HP by 1.25x and ATK by 1.3x, and restores 500 HP at the end of each turn",
+        "Boosts Slasher and Striker characters' HP by 1.25x and ATK by 1.4x, and restores 500 HP at the end of each turn",
+        "Boosts Slasher and Striker characters' HP by 1.25x and ATK by 1.6x if they have a Rainbow, Matching or '和' (Wa) orb, 1.5x ATK otherwise, and restores 750 HP at the end of each turn",
+        "Reduces CD of all characters by 1 at the start of battle, boosts Slasher and Striker characters' HP by 1.25x and ATK by 1.6x if they have a Rainbow, Matching or '和' (Wa) orb, 1.5x ATK otherwise, and restores 1000 HP at the end of each turn",
     }
 };
 /*

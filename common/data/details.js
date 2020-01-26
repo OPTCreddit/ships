@@ -934,6 +934,7 @@ window.details = {
         "Boosts Slasher and Striker characters' HP by 1.25x and ATK by 1.4x, and restores 500 HP at the end of each turn",
         "Boosts Slasher and Striker characters' HP by 1.25x and ATK by 1.6x if they have a Rainbow, Matching or '和' (Wa) orb, 1.5x ATK otherwise, and restores 750 HP at the end of each turn",
         "Reduces CD of all characters by 1 at the start of battle, boosts Slasher and Striker characters' HP by 1.25x and ATK by 1.6x if they have a Rainbow, Matching or '和' (Wa) orb, 1.5x ATK otherwise, and restores 1000 HP at the end of each turn",
+      ]
     }
 };
 /*

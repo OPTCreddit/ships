@@ -935,6 +935,35 @@ window.details = {
         "Boosts Slasher and Striker characters' HP by 1.25x and ATK by 1.6x if they have a Rainbow, Matching or '和' (Wa) orb, 1.5x ATK otherwise, and restores 750 HP at the end of each turn",
         "Reduces CD of all characters by 1 at the start of battle, boosts Slasher and Striker characters' HP by 1.25x and ATK by 1.6x if they have a Rainbow, Matching or '和' (Wa) orb, 1.5x ATK otherwise, and restores 1000 HP at the end of each turn",
       ]
+    },
+    49: {
+      obtain: "Clear the limited-time Merry Adventure quest",
+      jpn: 1,
+      period: ["During campaign period", "After campaign period"],
+      effect: [
+        "Reduces CD of all characters by 5 turns at the start of battle, boosts ATK by 1.5x and makes PERFECTs easier to hit",
+        "Boosts ATK by 1.2x"
+      ],
+      special: ["Restores 32% of max HP", '-'],
+      cd: [12, '-']
+    },
+    50: {
+      obtain: "Clear the 30-gem unlockable Arlong Ship Isle",
+      jpn: 1,
+      cola: [6,9,12,15,18,21,24,27,30],
+      success: ["?","?","?","?","?","?","?","?","?"],
+      effect: [
+        "If your captain is STR, DEX or QCK, boosts ATK by 1.5x, reduces CD of all characters by 1 at the start of battle, ATK decreases every turn (until it becomes 1.1x after 10 turns)",
+        "If your captain is STR, DEX or QCK, boosts ATK by 1.55x, reduces CD of all characters by 1 at the start of battle, ATK decreases every turn (until it becomes 1.1x after 10 turns)",
+        "If your captain is STR, DEX or QCK, boosts ATK by 1.6x, reduces CD of all characters by 1 at the start of battle, ATK decreases every turn (until it becomes 1.1x after 10 turns)",
+        "If your captain is STR, DEX or QCK, boosts ATK by 1.65x, reduces CD of all characters by 1 at the start of battle, ATK decreases every turn (until it becomes 1.1x after 10 turns)",
+        "If your captain is STR, DEX or QCK, boosts ATK by 1.7x, reduces CD of all characters by 1 at the start of battle, ATK decreases every turn (until it becomes 1.1x after 10 turns)",
+        "If your captain is STR, DEX or QCK, boosts ATK by 1.75x, reduces CD of all characters by 1 at the start of battle, ATK decreases every turn (until it becomes 1.1x after 10 turns)",
+        "If your captain is STR, DEX or QCK, boosts ATK by 1.8x, reduces CD of all characters by 1 at the start of battle, ATK decreases every turn (until it becomes 1.1x after 10 turns)",
+        "If your captain is STR, DEX or QCK, boosts ATK by 1.85x, reduces CD of all characters by 1 at the start of battle, ATK decreases every turn (until it becomes 1.1x after 10 turns)",
+        "If your captain is STR, DEX or QCK, boosts ATK by 1.9x, reduces CD of all characters by 1 at the start of battle, ATK decreases every turn (until it becomes 1.1x after 10 turns)",
+        "If your captain is STR, DEX or QCK, boosts ATK by 2x, reduces CD of all characters by 1 at the start of battle, makes PERFECTs easier to hit, ATK decreases every turn (until it becomes 1.3x after 10 turns)",
+      ]
     }
 };
 /*

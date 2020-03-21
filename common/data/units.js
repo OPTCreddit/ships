@@ -47,5 +47,7 @@ window.units = [
   [47, "Piece of Spadille", 145, "Boosts Powerhouse, Free Spirit and Fighter characters' HP by 1.2x and ATK by 1.5x, and boosts their ATK by approximately 1.6x if HP is 30% or below before attacking"],
   [48, "Koi Ship", 162, "Boosts QCK and INT characters' ATK by 1.5x and HP by 1.2x, and makes their RCV orbs beneficial. If HP is full before attacking, boosts ATK by 1.6x instead.", 1],
   [49, "Grudge Dolph", 162, "Reduces CD of all characters by 1 at the start of battle, boosts Slasher and Striker characters' HP by 1.25x and ATK by 1.6x if they have a Rainbow, Matching or '和' (Wa) orb, 1.5x ATK otherwise, and restores 1000 HP at the end of each turn"],
+  [50, "Going Merry - Farewell Edition", 0, "Reduces CD of all characters by 5 turns at the start of battle, boosts ATK by 1.5x and makes PERFECTs easier to hit", 1],
+  [51, "Shark Superb", 162, "If your captain is STR, DEX or QCK, boosts ATK by 2x, reduces CD of all characters by 1 at the start of battle, makes PERFECTs easier to hit, ATK decreases every turn (until it becomes 1.3x after 10 turns)"]
 ];
 // [assetID, "Name", cola, maxEffect, special],

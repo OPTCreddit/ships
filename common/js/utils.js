@@ -14,7 +14,7 @@
           assetID: element[0],
           name: element[1],
           cola: element[2],
-          effect: element[3].replace(/\[?(STR|QCK|DEX|PSY|INT|RCV|TND)\]?/g,'<span class="badge $1">$1</span>'),
+          effect: element[3].replace(/\[?(STR|QCK|DEX|PSY|INT|RCV|TND|Super-BOMB|BOMB|WA)\]?/g,'<span class="badge $1">$1</span>'),
           special: element[4],
           cooldown: element[5],
           number: n

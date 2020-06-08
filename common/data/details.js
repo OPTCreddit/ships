@@ -888,7 +888,6 @@ window.details = {
     },
     47: {
       obtain: "Clear the 30-gem unlockable Koi Ship Isle",
-      jpn: 1,
       note: "The actual HP threshold requirement is >99%, not 100%. The ship's multiplier is also able to change during the turn, as the HP condition is not 'at the start of the turn'.",
       cola: [6,9,12,15,18,21,24,27,30],
       success: ["?","?","?","?","?","?","?","?","?"],
@@ -964,6 +963,37 @@ window.details = {
         "If your captain is STR, DEX or QCK, boosts ATK by 1.9x, reduces CD of all characters by 1 at the start of battle, ATK decreases every turn (until it becomes 1.1x after 10 turns)",
         "If your captain is STR, DEX or QCK, boosts ATK by 2x, reduces CD of all characters by 1 at the start of battle, makes PERFECTs easier to hit, ATK decreases every turn (until it becomes 1.3x after 10 turns)",
       ]
+    },
+    51: {
+      obtain: "Clear Forest of Training: Magnetic Field",
+      jpn: 1,
+      cola: [6,9,12,15,18,21,24,27,30],
+      success: ["?","?","?","?","?","?","?","?","?"],
+      effect: [
+        "Slightly increases the appearance rate of TND orbs. If your captin is STR, boosts ATK of crew by 1.1x. If a character has a TND, BOMB, WA or Super-BOMB orb, boost their ATK by 1.2x instead.",
+        "Slightly increases the appearance rate of TND orbs. If your captin is STR, boosts ATK of crew by 1.15x. If a character has a TND, BOMB, WA or Super-BOMB orb, boost their ATK by 1.25x instead.",
+        "Slightly increases the appearance rate of TND orbs. If your captin is STR, boosts ATK of crew by 1.2x. If a character has a TND, BOMB, WA or Super-BOMB orb, boost their ATK by 1.3x instead.",
+        "Slightly increases the appearance rate of TND orbs. If your captin is STR, boosts ATK of crew by 1.25x. If a character has a TND, BOMB, WA or Super-BOMB orb, boost their ATK by 1.35x instead.",
+        "Slightly increases the appearance rate of TND orbs. If your captin is STR, boosts ATK of crew by 1.3x. If a character has a TND, BOMB, WA or Super-BOMB orb, boost their ATK by 1.4x instead.",
+        "Slightly increases the appearance rate of TND orbs. If your captin is STR, boosts ATK of crew by 1.35x. If a character has a TND, BOMB, WA or Super-BOMB orb, boost their ATK by 1.45x instead.",
+        "Slightly increases the appearance rate of TND orbs. If your captin is STR, boosts ATK of crew by 1.4x. If a character has a TND, BOMB, WA or Super-BOMB orb, boost their ATK by 1.5x instead.",
+        "Slightly increases the appearance rate of TND orbs. If your captin is STR, boosts ATK of crew by 1.45x. If a character has a TND, BOMB, WA or Super-BOMB orb, boost their ATK by 1.55x instead.",
+        "Slightly increases the appearance rate of TND orbs. If your captin is STR, boosts ATK of crew by 1.5x. If a character has a TND, BOMB, WA or Super-BOMB orb, boost their ATK by 1.6x instead.",
+        "Boosts HP by 1.2x and slightly increases the appearance rate of TND orbs. If your captin is STR, boosts ATK of crew by 1.55x. If a character has a TND, BOMB, WA or Super-BOMB orb, boost their ATK by 1.65x instead.",
+      ],
+      special: [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "Reduces all enemies' barriers by 1 turn."
+      ],
+      cd: ["-","-","-","-","-","-","-","-","-",10]
     }
 };
 /*

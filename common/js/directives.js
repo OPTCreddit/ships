@@ -69,9 +69,9 @@ filters.decorate = function() {
             .replace(/EMPTY/g,'<span class="badge EMPTY"><i class="fa fa-circle-o"></i> EMPTY</span>')
             .replace(/BLOCK/g,'<span class="badge BLOCK"><i class="block-icon"></i> BLOCK</span>')
             .replace(/\sBOMB/g,'<span class="badge BOMB"><i class="fa fa-bomb"></i> BOMB</span>')
-            .replace(/Super-BOMB/g,'<span class="badge Super-BOMB"><i class="fa fa-bomb"></i> Super-BOMB</span>')
+            .replace(/SUPERBOMB/g,'<span class="badge SUPERBOMB"><i class="fa fa-bomb"></i> SUPERBOMB</span>')
             .replace(/RAINBOW/g,'<span class="badge RAINBOW"></i> RAINBOW</span>')
-            .replace(/WA/g,'<span class="badge WA"></i> WA</span>')
+            .replace(/WANO/g,'<span class="badge WANO"></i> WANO</span>')
             .replace(/G/g,'<span class="badge G">G</span>');
     };
 };

@@ -180,8 +180,8 @@ input[type="text"] {
 .TND     { background: peru; }
 .BLOCK   { background: darkslateblue; }
 .BOMB    { background: maroon; }
-.Super-BOMB    { background: maroon; color: #fff930;}
-.WA    { background: #fd2424; color:#000 }
+.SUPERBOMB    { background: maroon; color: #ffe97d;}
+.WANO    { background: firebrick; }
 .RAINBOW { background: linear-gradient(90deg,#fa8072,#ffd700,#90ee90,#87cefa, #da70d6); }
 .G       { background: orange; }
 .EMPTY   { background: #777; }

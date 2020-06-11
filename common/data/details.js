@@ -443,7 +443,7 @@ window.details = {
     },
     24: {
       obtain: "Clear Law's 0-Stamina Training Forest (Forest of Training: ROOM)",
-      cola: [10,10,15,15,20,20,20,20,25,30],
+      cola: [10,10,15,15,20,20,20,25,30],
       success: [70,70,70,70,50,50,50,50,50,50],
       effect: [
         "Boosts Slashers and Free Spirit characters' ATK by 1.3x and HP by 1.1x, makes it a little easier for them to hit PERFECTs",

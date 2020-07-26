@@ -994,7 +994,37 @@ window.details = {
         "Reduces all enemies' barriers by 1 turn."
       ],
       cd: ["-","-","-","-","-","-","-","-","-",10]
-    }
+    },
+    52: {
+      obtain: "Clear the 30-gem unlockable Liberal Hind Ship Isle",
+      jpn: 1,
+      cola: [6,9,12,15,18,21,24,27,30],
+      success: ["?","?","?","?","?","?","?","?","?"],
+      effect: [
+        "Restores 100 HP at the end of the turn. If your Captain is Free Spirit, Slasher or Cerebral, boosts ATK by 1.2x.",
+        "Restores 200 HP at the end of the turn. If your Captain is Free Spirit, Slasher or Cerebral, boosts ATK by 1.25x.",
+        "Restores 300 HP at the end of the turn. If your Captain is Free Spirit, Slasher or Cerebral, boosts ATK by 1.3x.",
+        "Restores 400 HP at the end of the turn. If your Captain is Free Spirit, Slasher or Cerebral, boosts ATK by 1.3x. If there are 6 PSY characters in your crew, boosts ATK further by 1.05x.",
+        "Restores 500 HP at the end of the turn. If your Captain is Free Spirit, Slasher or Cerebral, boosts ATK by 1.3x. If there are 6 PSY characters in your crew, boosts ATK further by 1.1x.",
+        "Boost Captain's RCV by 100, restores 600 HP at the end of the turn. If your Captain is Free Spirit, Slasher or Cerebral, boosts ATK by 1.3x. If there are 6 PSY characters in your crew, boosts ATK further by 1.1x.",
+        "Boost Captain's RCV by 200, restores 700 HP at the end of the turn. If your Captain is Free Spirit, Slasher or Cerebral, boosts ATK by 1.35x. If there are 6 PSY characters in your crew, boosts ATK further by 1.1x.",
+        "Boost Captain's RCV by 300, restores 800 HP at the end of the turn. If your Captain is Free Spirit, Slasher or Cerebral, boosts ATK by 1.4x. If there are 6 PSY characters in your crew, boosts ATK further by 1.1x.",
+        "Boost Captain's RCV by 400, restores 900 HP at the end of the turn. If your Captain is Free Spirit, Slasher or Cerebral, boosts ATK by 1.5x. If there are 6 PSY characters in your crew, boosts ATK further by 1.1x.",
+        "Reduces CD of all characters by 1, boost Captain's RCV by 500, restores 1000 HP at the end of the turn. If your Captain is Free Spirit, Slasher or Cerebral, boosts ATK by 1.6x. If there are 6 PSY characters in your crew, boosts ATK further by 1.1x.",
+      ],
+      special: [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "Reduces CD of PSY characters by 1."
+      ],
+      cd: ["-","-","-","-","-","-","-","-","-",10]
 };
 /*
 NUMBER: {

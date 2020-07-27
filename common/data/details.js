@@ -948,7 +948,6 @@ window.details = {
     },
     50: {
       obtain: "Clear the 30-gem unlockable Arlong Ship Isle",
-      jpn: 1,
       cola: [6,9,12,15,18,21,24,27,30],
       success: ["?","?","?","?","?","?","?","?","?"],
       effect: [

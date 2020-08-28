@@ -1024,7 +1024,25 @@ window.details = {
         "Reduces CD of PSY characters by 1."
       ],
       cd: ["-","-","-","-","-","-","-","-","-",10]
-    }
+    },
+    53: {
+      obtain: "Clear the 30-gem unlockable Nostra Castello (Amphibious) Ship Isle",
+      jpn: 1,
+      cola: [6,9,12,15,18,21,24,27,30],
+      success: ["?","?","?","?","?","?","?","?","?"],
+      effect: [
+        "Boosts ATK of STR/PSY/INT characters by 1.2x.",
+        "Boosts ATK of STR/PSY/INT characters by 1.2x and HP by 1.1x.",
+        "Boosts ATK of STR/PSY/INT characters by 1.2x and HP by 1.2x.",
+        "Boosts ATK of STR/PSY/INT characters by 1.3x and HP by 1.2x.",
+        "Boosts ATK of STR/PSY/INT characters by 1.3x and HP by 1.3x.",
+        "Boosts ATK of STR/PSY/INT characters by 1.3x and HP by 1.3x. If your HP is full or below 30% before attacking, boosts ATK of STR/PSY/INT characters by 1.4x instead.",
+        "Boosts ATK of STR/PSY/INT characters by 1.4x and HP by 1.3x. If your HP is full or below 30% before attacking, boosts ATK of STR/PSY/INT characters by 1.6x instead.",
+        "Boosts ATK of STR/PSY/INT characters by 1.4x and HP by 1.4x. If your HP is full or below 30% before attacking, boosts ATK of STR/PSY/INT characters by 1.6x instead.",
+        "Boosts ATK of STR/PSY/INT characters by 1.55x and HP by 1.4x. If your HP is full or below 30% before attacking, boosts ATK of STR/PSY/INT characters by 1.7x instead.",
+        "Reduces CD of all characters by 1, boosts ATK of STR/PSY/INT characters by 1.55x and HP by 1.4x. If your HP is full or below 30% before attacking, boosts ATK of STR/PSY/INT characters by 1.7x instead.",
+      ]
+    },
 };
 /*
 NUMBER: {

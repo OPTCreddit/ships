@@ -98,7 +98,7 @@ window.details = {
         "Reduces damage received by 7% and boosts ATK of Strikers by 50",
         "Reduces damage received by 8% and boosts ATK of Strikers by 50",
         "Reduces damage received by 9% and boosts ATK of Strikers by 50",
-        "Reduces damage received by 10% and boosts ATK of Strikers by 100",
+        "Boosts ATK of Strikers by 1.5x, increases their matching orb rate slightly, increases base ATK by 100 and reduces damage taken by 10%",
       ]
     },
     7: {
@@ -149,7 +149,7 @@ window.details = {
         "Boosts ATK of characters with 20 cost or less by 1.3x, and HP of 4★ characters and below by 1.3x",
         "Boosts ATK of characters with 20 cost or less by 1.3x, and HP of 4★ characters and below by 1.4x",
         "Boosts ATK of characters with 20 cost or less by 1.4x, and HP of 4★ characters and below by 1.4x",
-        "Boosts ATK of characters with 20 cost or less by 1.5x, and HP of 4★ characters and below by 1.4x",
+        "Boosts ATK of characters under 40 cost by 1.5x. Boosts HP by 1.4x",
       ]
     },
     10: {
@@ -166,7 +166,7 @@ window.details = {
         "Reduces CD of all specials by 1 at the start of battle, boosts QCK characters' ATK by 1.25x and HP by 1.2x",
         "Reduces CD of all specials by 1 at the start of battle, boosts QCK characters' ATK by 1.3x and HP by 1.2x",
         "Reduces CD of all specials by 1 at the start of battle, boosts QCK characters' ATK by 1.3x and HP by 1.3x",
-        "Reduces CD of all specials by 1 at the start of battle, boosts QCK characters' ATK by 1.4x and HP by 1.3x",
+        "Reduces CD of all specials by 1 at the start of battle, boosts QCK characters' ATK by 1.5x and HP by 1.3x",
       ]
     },
     11: {
@@ -247,7 +247,7 @@ window.details = {
         "Boosts HP by 1.2x, deals 3500 typeless damage at the end of the turn",
         "Boosts HP by 1.2x, deals 4000 typeless damage at the end of the turn",
         "Boosts HP by 1.2x, deals 4500 typeless damage at the end of the turn",
-        "Boosts HP by 1.5x, deals 5000 typeless damage at the end of the turn",
+        "Boosts HP by 1.5x, deals 10,000 typeless damage at the end of the turn to all enemies",
       ]
     },
     15: {

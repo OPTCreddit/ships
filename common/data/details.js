@@ -710,7 +710,6 @@ window.details = {
     37: {
       obtain: "Clear the limited time New Year campaign quest",
       period: ["During Campaign", "After Campaign"],
-      jpn: 1,
       effect: [
         "Boosts ATK by 1.5x. At the start of battle, all specials start at MAX charge",
         "Boosts ATK by 1.2x"
@@ -862,7 +861,6 @@ window.details = {
     },
     45: {
       obtain: "Clear the limited time STAMPEDE Movie Collaboration Isle",
-      jpn: 1,
       period: ["During collaboration event", "After collaboration event"],
       effect: [
         "Boosts ATK and EXP gained by 1.5x",
@@ -919,7 +917,6 @@ window.details = {
     },
     48: {
       obtain: "Clear Forest of Training: Straw",
-      jpn: 1,
       cola: [6,9,12,15,18,21,24,27,30],
       success: ["?","?","?","?","?","?","?","?","?"],
       effect: [
@@ -937,7 +934,6 @@ window.details = {
     },
     49: {
       obtain: "Clear the limited-time Merry Adventure quest",
-      jpn: 1,
       period: ["During campaign period", "After campaign period"],
       effect: [
         "Reduces CD of all characters by 5 turns at the start of battle, boosts ATK by 1.5x and makes PERFECTs easier to hit",
@@ -965,7 +961,6 @@ window.details = {
     },
     51: {
       obtain: "Clear Forest of Training: Magnetic Field",
-      jpn: 1,
       cola: [6,9,12,15,18,21,24,27,30],
       success: ["?","?","?","?","?","?","?","?","?"],
       effect: [
@@ -996,7 +991,6 @@ window.details = {
     },
     52: {
       obtain: "Clear the 30-gem unlockable Liberal Hind Ship Isle",
-      jpn: 1,
       cola: [6,9,12,15,18,21,24,27,30],
       success: ["?","?","?","?","?","?","?","?","?"],
       effect: [
@@ -1027,7 +1021,6 @@ window.details = {
     },
     53: {
       obtain: "Clear the 30-gem unlockable Nostra Castello (Amphibious) Ship Isle",
-      jpn: 1,
       cola: [6,9,12,15,18,21,24,27,30],
       success: ["?","?","?","?","?","?","?","?","?"],
       effect: [
@@ -1042,6 +1035,36 @@ window.details = {
         "Boosts ATK of STR/PSY/INT characters by 1.55x and HP by 1.4x. If your HP is full or below 30% before attacking, boosts ATK of STR/PSY/INT characters by 1.7x instead.",
         "Reduces CD of all characters by 1, boosts ATK of STR/PSY/INT characters by 1.55x and HP by 1.4x. If your HP is full or below 30% before attacking, boosts ATK of STR/PSY/INT characters by 1.7x instead.",
       ]
+    },
+    54: {
+      obtain: "Clear the 30-gem unlockable Oro Jackson Ship Isle",
+      cola: [6,9,12,15,18,21,24,27,30],
+      success: ["?","?","?","?","?","?","?","?","?"],
+      effect: [
+        "Reduces CD of all characters by 1, boosts Free Spirit and Slasher characters' ATK by 1.2x and HP by 1.1x.",
+        "Reduces CD of all characters by 1, boosts Free Spirit and Slasher characters' ATK by 1.25x and HP by 1.2x.",
+        "Reduces CD of all characters by 1, boosts Free Spirit and Slasher characters' ATK by 1.3x and HP by 1.2x.",
+        "Reduces CD of all characters by 1, boosts Free Spirit and Slasher characters' ATK by 1.3x and HP by 1.2x, and makes their RCV/TND orbs beneficial.",
+        "Reduces CD of all characters by 1, boosts Free Spirit and Slasher characters' ATK by 1.35x and HP by 1.2x, and makes their RCV/TND orbs beneficial.",
+        "Reduces CD of all characters by 1, boosts Free Spirit and Slasher characters' ATK by 1.4x and HP by 1.2x, and makes their RCV/TND orbs beneficial.",
+        "Reduces CD of all characters by 1, boosts Free Spirit and Slasher characters' ATK by 1.45x and HP by 1.2x, and makes their RCV/TND orbs beneficial.",
+        "Reduces CD of all characters by 1, boosts Free Spirit and Slasher characters' ATK by 1.45x and HP by 1.2x, makes their RCV/TND orbs beneficial, makes it much easier to hit PERFECTs, and restores 500 HP at the end of the turn.",
+        "Reduces CD of all characters by 1, boosts Free Spirit and Slasher characters' ATK by 1.5x and HP by 1.2x, makes their RCV/TND orbs beneficial, makes it much easier to hit PERFECTs, and restores 750 HP at the end of the turn.",
+        "Reduces CD of all characters by 1, boosts Free Spirit and Slasher characters' ATK by 1.6x and HP by 1.3x, makes their RCV/TND orbs beneficial, makes it much easier to hit PERFECTs, and restores 1000 HP at the end of the turn.",
+      ],
+      special: [
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "Reduces paralysis by 2 turns."
+      ],
+      cd: ["-","-","-","-","-","-","-","-","-",9]
     },
 };
 /*

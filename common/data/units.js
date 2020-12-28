@@ -52,6 +52,7 @@ window.units = [
   [53, "Victoria Punk", 162, "Boosts HP by 1.2x and slightly increases the appearance rate of TND orbs. If your captain is STR or DEX, boosts ATK of crew by 1.55x. If a character has a TND, BOMB, WANO or SUPERBOMB orb, boost their ATK by 1.65x instead.", 1],
   [54, "Liberal Hind", 162, "Reduces CD of all characters by 1, boost Captain's RCV by 500, restores 1000 HP at the end of the turn. If your Captain is Free Spirit, Slasher or Cerebral, boosts ATK by 1.6x. If there are 6 PSY characters in your crew, boosts ATK further by 1.1x.", 1],
   [55, "Nostra Castello (Amphibious)", 162, "Reduces CD of all characters by 1, boosts ATK of STR/PSY/INT characters by 1.55x and HP by 1.4x. If your HP is full or below 30% before attacking, boosts ATK of STR/PSY/INT characters by 1.7x instead."],
+  [56, "Oro Jackson", 162, "Reduces CD of all characters by 1, boosts Free Spirit and Slasher characters' ATK by 1.6x and HP by 1.3x, makes their RCV/TND orbs beneficial, makes it much easier to land PERFECTs, and restores 1000 HP at the end of the turn."],
 ];
 
 // [assetID, "Name", cola, maxEffect, special],

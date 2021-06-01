@@ -7,7 +7,7 @@ window.units = [
   [6, "Miss Love Duck", 57, "Boosts ATK of Strikers by 1.5x, increases their matching orb rate slightly, increases base ATK by 100 and reduces damage taken by 10%"],
   [7, "Going Merry - Flying Model", 65, "Boosts ATK by 1.2x and recovers 350 HP at the end of the turn"],
   [8, "Moby Dick", 132, "Boosts ATK by 1.5x, HP by 1.4x, and reduces HP by 50% at the start of battle"],
-  [9, "Big Top", 28, "Boosts ATK of characters under 40 cost by 1.5x. Boosts HP by 1.4x"],
+  [9, "Big Top", 28, "Boosts ATK of characters with 40 cost or less by 1.5x, and HP by 1.4x"],
   [10, "Bezan Black", 84, "Reduces CD of all specials by 1 at the start of battle, boosts ATK of QCK characters by 1.5x and HP by 1.3x"],
   [11, "Aokiji's Bicycle", 225, "Boosts ATK and HP of Strikers by 1.5x, greatly reduces the appearance of RCV orbs"],
   [12, "Striker", 105, "Boosts ATK of Shooters by 1.5x and HP by 1.3x, reduces their CD by 1 at the start of battle"],

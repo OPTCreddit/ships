@@ -1,5 +1,5 @@
 window.details = {
-    1: {
+    1: { //dinghy
         cola: [2,2,4,4,6,6,8,8,8],
         success: [100,100,90,90,70,70,50,50,50],
         effect: [
@@ -15,7 +15,7 @@ window.details = {
           "Boosts HP by 1.3x, Captain's RCV by 120, and makes it slightly easier to hit PERFECTs",
         ]
     },
-    2: {
+    2: { //Merry Go
       obtain: "Clear Syrup Village",
       note: "On Global, the success rate is 100% for all levels.",
       cola: [3,3,5,5,7,7,9,9,9],
@@ -149,7 +149,7 @@ window.details = {
         "Boosts ATK of characters with 20 cost or less by 1.3x, and HP of 4★ characters and below by 1.3x",
         "Boosts ATK of characters with 20 cost or less by 1.3x, and HP of 4★ characters and below by 1.4x",
         "Boosts ATK of characters with 20 cost or less by 1.4x, and HP of 4★ characters and below by 1.4x",
-        "Boosts ATK of characters under 40 cost by 1.5x. Boosts HP by 1.4x",
+        "Boosts ATK of characters with 40 cost or less by 1.5x, and HP by 1.4x",
       ]
     },
     10: {

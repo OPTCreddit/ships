@@ -53,6 +53,7 @@ window.units = [
   [54, "Liberal Hind", 162, "Reduces CD of all characters by 1, boost Captain's RCV by 500, restores 1000 HP at the end of the turn. If your Captain is Free Spirit, Slasher or Cerebral, boosts ATK by 1.6x. If there are 6 PSY characters in your crew, boosts ATK further by 1.1x.", 1],
   [55, "Nostra Castello (Amphibious)", 162, "Reduces CD of all characters by 1, boosts ATK of STR/PSY/INT characters by 1.55x and HP by 1.4x. If your HP is full or below 30% before attacking, boosts ATK of STR/PSY/INT characters by 1.7x instead."],
   [56, "Oro Jackson", 162, "Reduces CD of all characters by 1, boosts Free Spirit and Slasher characters' ATK by 1.6x and HP by 1.3x, makes their RCV/TND orbs beneficial, makes it much easier to land PERFECTs, and restores 1000 HP at the end of the turn.", 1],
+  [59, "Whale Shark", 162, "Reduces CD of all characters by 1, boosts ATK by 1.6x and HP by 10000, makes TND orbs beneficial, makes it easier to hit PERFECTs, and boosts EXP earned by 1.25x."],
 ];
 
 // [assetID, "Name", cola, maxEffect, special],

@@ -1066,6 +1066,23 @@ window.details = {
       ],
       cd: ["-","-","-","-","-","-","-","-","-",9]
     },
+    55: {
+      obtain: "Clear the 30-gem unlockable Whale Shark Ship Isle",
+      cola: [6,9,12,15,18,21,24,27,30],
+      success: ["?","?","?","?","?","?","?","?","?"],
+      effect: [
+        "Reduces CD of all characters by 1, boosts ATK by 1.2x.",
+        "Reduces CD of all characters by 1, boosts ATK by 1.2x, and makes it easier to hit PERFECTs.",
+        "Reduces CD of all characters by 1, boosts ATK by 1.25x, and makes it easier to hit PERFECTs.",
+        "Reduces CD of all characters by 1, boosts ATK by 1.3x, and makes it easier to hit PERFECTs.",
+        "Reduces CD of all characters by 1, boosts ATK by 1.35x and HP by 500, and makes it easier to hit PERFECTs.",
+        "Reduces CD of all characters by 1, boosts ATK by 1.4x and HP by 1000, and makes it easier to hit PERFECTs.",
+        "Reduces CD of all characters by 1, boosts ATK by 1.45x and HP by 2500, and makes it easier to hit PERFECTs.",
+        "Reduces CD of all characters by 1, boosts ATK by 1.45x and HP by 2500, makes it easier to hit PERFECTs, and boosts EXP earned by 1.1x.",
+        "Reduces CD of all characters by 1, boosts ATK by 1.5x and HP by 5000, makes TND orbs beneficial, makes it easier to hit PERFECTs, and boosts EXP earned by 1.2x.",
+        "Reduces CD of all characters by 1, boosts ATK by 1.6x and HP by 10000, makes TND orbs beneficial, makes it easier to hit PERFECTs, and boosts EXP earned by 1.25x.",
+      ],
+    },
 };
 /*
 NUMBER: {

@@ -46,10 +46,6 @@ directives.characterTable = function($rootScope, $timeout, $compile, $storage) {
 				$rootScope.$emit('table.refresh');
 				$timeout(function() { element.fnDraw(); });
 			};
-            // report link
-            var link = $('<span class="help-link">If you have something to report, please <a>send me a message on reddit</a></span>');
-            link.find('a').attr('href', 'https://www.reddit.com/message/compose/?to=antonlabz&subject=ships_db');
-            link.insertAfter($('.dataTables_length'));
             // night toggle
             var nightToggle = $('<label class="night-toggle"><input type="checkbox">Night mode</input></label>');
             nightToggle.find('input').change(function(e) {
